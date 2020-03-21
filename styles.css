@@ -1,0 +1,90 @@
+
+
+.top-container {
+    background-color: #d1f5d3;
+  height: 650px;
+  position: relative;
+  padding-top: 100px;
+
+
+
+}
+
+.middle-container {
+
+
+
+}
+
+
+.bottom-container {
+  background-color: #d1f5d3;
+height: 6em;
+}
+
+.skills {
+  background-color: #edffea;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 600px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skills-pic {
+  border-radius: 20%;
+  height: auto;
+}
+
+.jocel {
+    border-radius: 10%;
+    height: auto;
+}
+
+.max{
+  border-radius: 50%;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  font-size: 5.62em;
+font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.75em;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.875em;
+}
+
+p {
+  font-size: 1.875em;
+}
+
+hr {
+		border-style: none;
+		border-top: dotted;
+		border-color: gray;
+		border-width: 12px;
+		width: 70%;
+	}
